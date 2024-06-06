@@ -14,10 +14,10 @@ Please stay tuned.
 NXP i.MX RT1050 Evaluation Kit is required for conducting dynamic analysis. 
 1. Use MCUXpresso, NXP's IDE, to download (flash) the [binary that implements resnet](https://github.com/purseclab/NeuroScope/blob/0d98310860a248df4cd73fad144a7042249b56b5/online/bin/evkbimxrt1050_tensorflow_lite_micro_cifar10_deployment.axf) onto the board
 2. Launch debug session with MCUXpresso IDE LinkServer (CMSIS-DAP) probe
-3. In the debug console, use the following command to add our gdb script: `source $YOUR_PATH/online/io_dumper/io_dumper.py`, and `io-dump`
+3. In the debug console, use the following command to use our gdb script: `source $YOUR_PATH/online/io_dumper/io_dumper.py`, and then invoke `io-dump`
 
 Our script will dump the I/O data to a folder: `$YOUR_PATH/online/dump`. 
-These data will be processed in the offline part. 
+These data will be processed in the offline part for DNN recovery. 
 
 
 #### Offline part (Dataset synthesis, Model training, Model recovery)
