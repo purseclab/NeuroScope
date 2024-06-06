@@ -5,9 +5,11 @@ import pickle
 from Dataset import get_dp, Operator
 
 SIZE = 10000
+PATH = "./dataset"
+
 BATCH_SIZE = 100
 NUM_PROCESS = 10
-PATH = "./dataset"
+
 
 def multiprocess_gen_dp(p_idx):
     '''
