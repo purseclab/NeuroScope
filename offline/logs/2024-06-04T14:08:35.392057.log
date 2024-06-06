@@ -1,0 +1,502 @@
+Epoch 1 Training Accuracy:
+Overall Accuracy: 0.00%
+Epoch 1 Test Accuracy:
+Overall Accuracy: 0.00%
+-------------------------------------------
+Epoch 2 Training Accuracy:
+Overall Accuracy: 8.28%
+Epoch 2 Test Accuracy:
+Overall Accuracy: 8.54%
+-------------------------------------------
+Epoch 3 Training Accuracy:
+Overall Accuracy: 12.19%
+Epoch 3 Test Accuracy:
+Overall Accuracy: 13.75%
+-------------------------------------------
+Epoch 4 Training Accuracy:
+Overall Accuracy: 3.91%
+Epoch 4 Test Accuracy:
+Overall Accuracy: 5.21%
+-------------------------------------------
+Epoch 5 Training Accuracy:
+Overall Accuracy: 12.19%
+Epoch 5 Test Accuracy:
+Overall Accuracy: 13.75%
+-------------------------------------------
+Epoch 6 Training Accuracy:
+Overall Accuracy: 4.11%
+Epoch 6 Test Accuracy:
+Overall Accuracy: 4.38%
+-------------------------------------------
+Epoch 7 Training Accuracy:
+Overall Accuracy: 8.02%
+Epoch 7 Test Accuracy:
+Overall Accuracy: 9.58%
+-------------------------------------------
+Epoch 8 Training Accuracy:
+Overall Accuracy: 7.71%
+Epoch 8 Test Accuracy:
+Overall Accuracy: 10.83%
+-------------------------------------------
+Epoch 9 Training Accuracy:
+Overall Accuracy: 3.91%
+Epoch 9 Test Accuracy:
+Overall Accuracy: 5.21%
+-------------------------------------------
+Epoch 10 Training Accuracy:
+Overall Accuracy: 16.09%
+Epoch 10 Test Accuracy:
+Overall Accuracy: 18.96%
+-------------------------------------------
+Epoch 11 Training Accuracy:
+Overall Accuracy: 8.02%
+Epoch 11 Test Accuracy:
+Overall Accuracy: 9.58%
+-------------------------------------------
+Epoch 12 Training Accuracy:
+Overall Accuracy: 16.98%
+Epoch 12 Test Accuracy:
+Overall Accuracy: 15.42%
+-------------------------------------------
+Epoch 13 Training Accuracy:
+Overall Accuracy: 9.01%
+Epoch 13 Test Accuracy:
+Overall Accuracy: 10.21%
+-------------------------------------------
+Epoch 14 Training Accuracy:
+Overall Accuracy: 16.46%
+Epoch 14 Test Accuracy:
+Overall Accuracy: 17.50%
+-------------------------------------------
+Epoch 15 Training Accuracy:
+Overall Accuracy: 12.50%
+Epoch 15 Test Accuracy:
+Overall Accuracy: 13.96%
+-------------------------------------------
+Epoch 16 Training Accuracy:
+Overall Accuracy: 14.58%
+Epoch 16 Test Accuracy:
+Overall Accuracy: 16.04%
+-------------------------------------------
+Epoch 17 Training Accuracy:
+Overall Accuracy: 25.00%
+Epoch 17 Test Accuracy:
+Overall Accuracy: 24.58%
+-------------------------------------------
+Epoch 18 Training Accuracy:
+Overall Accuracy: 17.50%
+Epoch 18 Test Accuracy:
+Overall Accuracy: 18.12%
+-------------------------------------------
+Epoch 19 Training Accuracy:
+Overall Accuracy: 20.78%
+Epoch 19 Test Accuracy:
+Overall Accuracy: 16.67%
+-------------------------------------------
+Epoch 20 Training Accuracy:
+Overall Accuracy: 35.05%
+Epoch 20 Test Accuracy:
+Overall Accuracy: 32.71%
+-------------------------------------------
+Epoch 21 Training Accuracy:
+Overall Accuracy: 24.74%
+Epoch 21 Test Accuracy:
+Overall Accuracy: 22.08%
+-------------------------------------------
+Epoch 22 Training Accuracy:
+Overall Accuracy: 29.79%
+Epoch 22 Test Accuracy:
+Overall Accuracy: 26.67%
+-------------------------------------------
+Epoch 23 Training Accuracy:
+Overall Accuracy: 28.39%
+Epoch 23 Test Accuracy:
+Overall Accuracy: 27.29%
+-------------------------------------------
+Epoch 24 Training Accuracy:
+Overall Accuracy: 26.82%
+Epoch 24 Test Accuracy:
+Overall Accuracy: 25.62%
+-------------------------------------------
+Epoch 25 Training Accuracy:
+Overall Accuracy: 26.98%
+Epoch 25 Test Accuracy:
+Overall Accuracy: 25.42%
+-------------------------------------------
+Epoch 26 Training Accuracy:
+Overall Accuracy: 31.51%
+Epoch 26 Test Accuracy:
+Overall Accuracy: 29.79%
+-------------------------------------------
+Epoch 27 Training Accuracy:
+Overall Accuracy: 28.33%
+Epoch 27 Test Accuracy:
+Overall Accuracy: 27.29%
+-------------------------------------------
+Epoch 28 Training Accuracy:
+Overall Accuracy: 25.00%
+Epoch 28 Test Accuracy:
+Overall Accuracy: 24.17%
+-------------------------------------------
+Epoch 29 Training Accuracy:
+Overall Accuracy: 28.39%
+Epoch 29 Test Accuracy:
+Overall Accuracy: 25.62%
+-------------------------------------------
+Epoch 30 Training Accuracy:
+Overall Accuracy: 20.99%
+Epoch 30 Test Accuracy:
+Overall Accuracy: 19.58%
+-------------------------------------------
+Epoch 31 Training Accuracy:
+Overall Accuracy: 22.45%
+Epoch 31 Test Accuracy:
+Overall Accuracy: 21.04%
+-------------------------------------------
+Epoch 32 Training Accuracy:
+Overall Accuracy: 22.60%
+Epoch 32 Test Accuracy:
+Overall Accuracy: 20.83%
+-------------------------------------------
+Epoch 33 Training Accuracy:
+Overall Accuracy: 29.32%
+Epoch 33 Test Accuracy:
+Overall Accuracy: 26.46%
+-------------------------------------------
+Epoch 34 Training Accuracy:
+Overall Accuracy: 32.08%
+Epoch 34 Test Accuracy:
+Overall Accuracy: 31.04%
+-------------------------------------------
+Epoch 35 Training Accuracy:
+Overall Accuracy: 27.29%
+Epoch 35 Test Accuracy:
+Overall Accuracy: 25.62%
+-------------------------------------------
+Epoch 36 Training Accuracy:
+Overall Accuracy: 33.44%
+Epoch 36 Test Accuracy:
+Overall Accuracy: 32.50%
+-------------------------------------------
+Epoch 37 Training Accuracy:
+Overall Accuracy: 33.44%
+Epoch 37 Test Accuracy:
+Overall Accuracy: 32.71%
+-------------------------------------------
+Epoch 38 Training Accuracy:
+Overall Accuracy: 33.49%
+Epoch 38 Test Accuracy:
+Overall Accuracy: 32.71%
+-------------------------------------------
+Epoch 39 Training Accuracy:
+Overall Accuracy: 33.75%
+Epoch 39 Test Accuracy:
+Overall Accuracy: 32.71%
+-------------------------------------------
+Epoch 40 Training Accuracy:
+Overall Accuracy: 33.23%
+Epoch 40 Test Accuracy:
+Overall Accuracy: 32.08%
+-------------------------------------------
+Epoch 41 Training Accuracy:
+Overall Accuracy: 38.65%
+Epoch 41 Test Accuracy:
+Overall Accuracy: 36.67%
+-------------------------------------------
+Epoch 42 Training Accuracy:
+Overall Accuracy: 39.53%
+Epoch 42 Test Accuracy:
+Overall Accuracy: 37.50%
+-------------------------------------------
+Epoch 43 Training Accuracy:
+Overall Accuracy: 41.98%
+Epoch 43 Test Accuracy:
+Overall Accuracy: 37.92%
+-------------------------------------------
+Epoch 44 Training Accuracy:
+Overall Accuracy: 46.25%
+Epoch 44 Test Accuracy:
+Overall Accuracy: 42.08%
+-------------------------------------------
+Epoch 45 Training Accuracy:
+Overall Accuracy: 43.80%
+Epoch 45 Test Accuracy:
+Overall Accuracy: 41.25%
+-------------------------------------------
+Epoch 46 Training Accuracy:
+Overall Accuracy: 46.72%
+Epoch 46 Test Accuracy:
+Overall Accuracy: 43.33%
+-------------------------------------------
+Epoch 47 Training Accuracy:
+Overall Accuracy: 52.19%
+Epoch 47 Test Accuracy:
+Overall Accuracy: 50.42%
+-------------------------------------------
+Epoch 48 Training Accuracy:
+Overall Accuracy: 50.99%
+Epoch 48 Test Accuracy:
+Overall Accuracy: 48.75%
+-------------------------------------------
+Epoch 49 Training Accuracy:
+Overall Accuracy: 53.18%
+Epoch 49 Test Accuracy:
+Overall Accuracy: 51.88%
+-------------------------------------------
+Epoch 50 Training Accuracy:
+Overall Accuracy: 46.09%
+Epoch 50 Test Accuracy:
+Overall Accuracy: 43.54%
+-------------------------------------------
+Epoch 51 Training Accuracy:
+Overall Accuracy: 47.03%
+Epoch 51 Test Accuracy:
+Overall Accuracy: 44.58%
+-------------------------------------------
+Epoch 52 Training Accuracy:
+Overall Accuracy: 50.47%
+Epoch 52 Test Accuracy:
+Overall Accuracy: 47.50%
+-------------------------------------------
+Epoch 53 Training Accuracy:
+Overall Accuracy: 52.97%
+Epoch 53 Test Accuracy:
+Overall Accuracy: 49.79%
+-------------------------------------------
+Epoch 54 Training Accuracy:
+Overall Accuracy: 50.99%
+Epoch 54 Test Accuracy:
+Overall Accuracy: 48.96%
+-------------------------------------------
+Epoch 55 Training Accuracy:
+Overall Accuracy: 55.05%
+Epoch 55 Test Accuracy:
+Overall Accuracy: 52.50%
+-------------------------------------------
+Epoch 56 Training Accuracy:
+Overall Accuracy: 50.78%
+Epoch 56 Test Accuracy:
+Overall Accuracy: 46.88%
+-------------------------------------------
+Epoch 57 Training Accuracy:
+Overall Accuracy: 62.92%
+Epoch 57 Test Accuracy:
+Overall Accuracy: 60.83%
+-------------------------------------------
+Epoch 58 Training Accuracy:
+Overall Accuracy: 62.92%
+Epoch 58 Test Accuracy:
+Overall Accuracy: 60.83%
+-------------------------------------------
+Epoch 59 Training Accuracy:
+Overall Accuracy: 63.70%
+Epoch 59 Test Accuracy:
+Overall Accuracy: 61.25%
+-------------------------------------------
+Epoch 60 Training Accuracy:
+Overall Accuracy: 45.52%
+Epoch 60 Test Accuracy:
+Overall Accuracy: 41.88%
+-------------------------------------------
+Epoch 61 Training Accuracy:
+Overall Accuracy: 59.58%
+Epoch 61 Test Accuracy:
+Overall Accuracy: 57.29%
+-------------------------------------------
+Epoch 62 Training Accuracy:
+Overall Accuracy: 61.98%
+Epoch 62 Test Accuracy:
+Overall Accuracy: 60.42%
+-------------------------------------------
+Epoch 63 Training Accuracy:
+Overall Accuracy: 58.65%
+Epoch 63 Test Accuracy:
+Overall Accuracy: 57.08%
+-------------------------------------------
+Epoch 64 Training Accuracy:
+Overall Accuracy: 62.66%
+Epoch 64 Test Accuracy:
+Overall Accuracy: 60.83%
+-------------------------------------------
+Epoch 65 Training Accuracy:
+Overall Accuracy: 67.14%
+Epoch 65 Test Accuracy:
+Overall Accuracy: 64.38%
+-------------------------------------------
+Epoch 66 Training Accuracy:
+Overall Accuracy: 61.51%
+Epoch 66 Test Accuracy:
+Overall Accuracy: 58.33%
+-------------------------------------------
+Epoch 67 Training Accuracy:
+Overall Accuracy: 59.53%
+Epoch 67 Test Accuracy:
+Overall Accuracy: 57.50%
+-------------------------------------------
+Epoch 68 Training Accuracy:
+Overall Accuracy: 69.48%
+Epoch 68 Test Accuracy:
+Overall Accuracy: 67.08%
+-------------------------------------------
+Epoch 69 Training Accuracy:
+Overall Accuracy: 62.19%
+Epoch 69 Test Accuracy:
+Overall Accuracy: 61.04%
+-------------------------------------------
+Epoch 70 Training Accuracy:
+Overall Accuracy: 71.67%
+Epoch 70 Test Accuracy:
+Overall Accuracy: 70.21%
+-------------------------------------------
+Epoch 71 Training Accuracy:
+Overall Accuracy: 75.31%
+Epoch 71 Test Accuracy:
+Overall Accuracy: 73.75%
+-------------------------------------------
+Epoch 72 Training Accuracy:
+Overall Accuracy: 68.65%
+Epoch 72 Test Accuracy:
+Overall Accuracy: 67.50%
+-------------------------------------------
+Epoch 73 Training Accuracy:
+Overall Accuracy: 67.86%
+Epoch 73 Test Accuracy:
+Overall Accuracy: 68.12%
+-------------------------------------------
+Epoch 74 Training Accuracy:
+Overall Accuracy: 74.17%
+Epoch 74 Test Accuracy:
+Overall Accuracy: 74.17%
+-------------------------------------------
+Epoch 75 Training Accuracy:
+Overall Accuracy: 70.68%
+Epoch 75 Test Accuracy:
+Overall Accuracy: 71.46%
+-------------------------------------------
+Epoch 76 Training Accuracy:
+Overall Accuracy: 66.09%
+Epoch 76 Test Accuracy:
+Overall Accuracy: 65.00%
+-------------------------------------------
+Epoch 77 Training Accuracy:
+Overall Accuracy: 78.39%
+Epoch 77 Test Accuracy:
+Overall Accuracy: 77.92%
+-------------------------------------------
+Epoch 78 Training Accuracy:
+Overall Accuracy: 68.33%
+Epoch 78 Test Accuracy:
+Overall Accuracy: 66.88%
+-------------------------------------------
+Epoch 79 Training Accuracy:
+Overall Accuracy: 69.06%
+Epoch 79 Test Accuracy:
+Overall Accuracy: 70.21%
+-------------------------------------------
+Epoch 80 Training Accuracy:
+Overall Accuracy: 75.00%
+Epoch 80 Test Accuracy:
+Overall Accuracy: 75.21%
+-------------------------------------------
+Epoch 81 Training Accuracy:
+Overall Accuracy: 70.57%
+Epoch 81 Test Accuracy:
+Overall Accuracy: 71.46%
+-------------------------------------------
+Epoch 82 Training Accuracy:
+Overall Accuracy: 77.29%
+Epoch 82 Test Accuracy:
+Overall Accuracy: 75.83%
+-------------------------------------------
+Epoch 83 Training Accuracy:
+Overall Accuracy: 74.01%
+Epoch 83 Test Accuracy:
+Overall Accuracy: 74.58%
+-------------------------------------------
+Epoch 84 Training Accuracy:
+Overall Accuracy: 68.59%
+Epoch 84 Test Accuracy:
+Overall Accuracy: 71.04%
+-------------------------------------------
+Epoch 85 Training Accuracy:
+Overall Accuracy: 73.59%
+Epoch 85 Test Accuracy:
+Overall Accuracy: 74.38%
+-------------------------------------------
+Epoch 86 Training Accuracy:
+Overall Accuracy: 69.48%
+Epoch 86 Test Accuracy:
+Overall Accuracy: 70.83%
+-------------------------------------------
+Epoch 87 Training Accuracy:
+Overall Accuracy: 67.50%
+Epoch 87 Test Accuracy:
+Overall Accuracy: 68.54%
+-------------------------------------------
+Epoch 88 Training Accuracy:
+Overall Accuracy: 76.35%
+Epoch 88 Test Accuracy:
+Overall Accuracy: 78.96%
+-------------------------------------------
+Epoch 89 Training Accuracy:
+Overall Accuracy: 79.17%
+Epoch 89 Test Accuracy:
+Overall Accuracy: 82.08%
+-------------------------------------------
+Epoch 90 Training Accuracy:
+Overall Accuracy: 75.16%
+Epoch 90 Test Accuracy:
+Overall Accuracy: 80.00%
+-------------------------------------------
+Epoch 91 Training Accuracy:
+Overall Accuracy: 80.00%
+Epoch 91 Test Accuracy:
+Overall Accuracy: 82.92%
+-------------------------------------------
+Epoch 92 Training Accuracy:
+Overall Accuracy: 74.79%
+Epoch 92 Test Accuracy:
+Overall Accuracy: 78.33%
+-------------------------------------------
+Epoch 93 Training Accuracy:
+Overall Accuracy: 78.07%
+Epoch 93 Test Accuracy:
+Overall Accuracy: 79.79%
+-------------------------------------------
+Epoch 94 Training Accuracy:
+Overall Accuracy: 79.32%
+Epoch 94 Test Accuracy:
+Overall Accuracy: 81.88%
+-------------------------------------------
+Epoch 95 Training Accuracy:
+Overall Accuracy: 79.06%
+Epoch 95 Test Accuracy:
+Overall Accuracy: 82.08%
+-------------------------------------------
+Epoch 96 Training Accuracy:
+Overall Accuracy: 83.59%
+Epoch 96 Test Accuracy:
+Overall Accuracy: 86.04%
+-------------------------------------------
+Epoch 97 Training Accuracy:
+Overall Accuracy: 83.59%
+Epoch 97 Test Accuracy:
+Overall Accuracy: 86.46%
+-------------------------------------------
+Epoch 98 Training Accuracy:
+Overall Accuracy: 83.70%
+Epoch 98 Test Accuracy:
+Overall Accuracy: 86.25%
+-------------------------------------------
+Epoch 99 Training Accuracy:
+Overall Accuracy: 84.01%
+Epoch 99 Test Accuracy:
+Overall Accuracy: 86.67%
+-------------------------------------------
+Epoch 100 Training Accuracy:
+Overall Accuracy: 82.76%
+Epoch 100 Test Accuracy:
+Overall Accuracy: 85.42%
+-------------------------------------------
+Training Complete
+Best training acc: 84.01041666666667, best testing acc: 86.66666666666667

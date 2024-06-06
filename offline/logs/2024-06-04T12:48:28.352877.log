@@ -1,0 +1,451 @@
+Epoch 1 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 0.00%
+Class 2 has no samples
+Accuracy of class 3: 0.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [ 80.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.]])
+Epoch 1 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 0.00%
+Class 2 has no samples
+Accuracy of class 3: 0.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [20.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Epoch 2 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 1.25%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,  75.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   1.,   0.,   0.,   0.,   0.,   0.,  79.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.]])
+Epoch 2 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 0.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0., 25.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 20.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Epoch 3 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 98.75%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,  75.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,  79.,   0.,   0.,   0.,   0.,   0.,   1.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.]])
+Epoch 3 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0., 25.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0., 20.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Epoch 4 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,  75.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,  80.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.]])
+Epoch 4 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0., 25.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0., 20.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Epoch 5 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 1.25%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,  75.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   1.,   0.,   0.,   0.,   0.,   0.,  79.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.]])
+Epoch 5 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 0.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0., 25.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 20.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Epoch 6 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,  75.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,  80.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.]])
+Epoch 6 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0., 25.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0., 20.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Epoch 7 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,  75.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,  80.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.]])
+Epoch 7 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0., 25.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0., 20.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Epoch 8 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 8.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,  75.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,  80.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  69.,   6.]])
+Epoch 8 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0., 25.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0., 20.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Epoch 9 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,  75.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,  80.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.]])
+Epoch 9 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0., 25.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0., 20.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Epoch 10 Training Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[156.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,  75.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,  80.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0., 243.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0., 171.,   0.],
+        [  0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,  75.,   0.]])
+Epoch 10 Test Accuracy per Class:
+Accuracy of class 0: 100.00%
+Accuracy of class 1: 100.00%
+Class 2 has no samples
+Accuracy of class 3: 100.00%
+Class 4 has no samples
+Class 5 has no samples
+Accuracy of class 6: 100.00%
+Class 7 has no samples
+Accuracy of class 8: 100.00%
+Accuracy of class 9: 0.00%
+Confusion Matrix:
+tensor([[44.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0., 25.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0., 20.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0., 57.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 29.,  0.],
+        [ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0., 25.,  0.]])
+-------------------------------------------
+Training Complete

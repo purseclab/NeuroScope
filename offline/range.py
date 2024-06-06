@@ -1,0 +1,6 @@
+channel_range = [1, 3, 4, 8, 16, 32, 64]
+shape_range = [4, 8, 14, 16, 28, 32]
+kernel_shape_range = [1, 3, 5]
+num_class_range = [1, 5, 8, 10]
+pad_range = [0, 1, 2, 3]
+stride_range = [1, 2]
