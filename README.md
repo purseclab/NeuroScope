@@ -1,7 +1,6 @@
 # NeuroScope
 This is the code repo of our paper "NeuroScope: Reverse Engineering Deep Neural Network on Edge Devices using Dynamic Analysis". 
-Since the paper is under revision, we are still actively developing/cleaning the codebase. We will push more code to this repo in the following months. 
-Please stay tuned.  
+
 
 
 ### Environment  
